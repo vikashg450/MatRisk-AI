@@ -1,6 +1,6 @@
 # MatRisk AI
 
-[![Open in Streamlit]([https://static.streamlit.io/badges/streamlit_badge_black_white.svg](https://matrisk-ai-eq3993fwi9fc3pc88uenwh.streamlit.app/))](https://matrisk-ai.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg](https://matrisk-ai-eq3993fwi9fc3pc88uenwh.streamlit.app/))
 
 > *Atoms → Physics → Finance*
 
