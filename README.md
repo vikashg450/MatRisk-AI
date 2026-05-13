@@ -1,5 +1,7 @@
 # MatRisk AI
 
+[![Open in Streamlit]([https://static.streamlit.io/badges/streamlit_badge_black_white.svg](https://matrisk-ai-eq3993fwi9fc3pc88uenwh.streamlit.app/))](https://matrisk-ai.streamlit.app)
+
 > *Atoms → Physics → Finance*
 
 Material degradation is invisible until it isn't. MatRisk AI makes it legible — translating atomic-level chemistry into survival probabilities, and survival probabilities into dollar-denominated risk.
@@ -93,13 +95,5 @@ MatRisk-Data-Set-Sample/
 ├── DS5_element_prices_monthly.csv
 └── DS6_historical_failures_2000.csv
 ```
-
----
-
-## License
-
-MIT — see `LICENSE` for details.
-
----
 
 *Built at the intersection of materials science, survival analysis, and financial risk.*
