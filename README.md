@@ -1,7 +1,6 @@
 # MatRisk AI
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]((https://matrisk-ai-eq3993fwi9fc3pc88uenwh.streamlit.app/))
-
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://matrisk-ai-eq3993fwi9fc3pc88uenwh.streamlit.app/)
 > *Atoms → Physics → Finance*
 
 Material degradation is invisible until it isn't. MatRisk AI makes it legible — translating atomic-level chemistry into survival probabilities, and survival probabilities into dollar-denominated risk.
