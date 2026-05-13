@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+optuna
+shap
+matminer
+yfinance
+torch
+torchtuples
+pycox
+lifelines
+streamlit
+plotly
